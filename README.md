@@ -1,1 +1,1 @@
-https://marcusvcalves.github.io/QRcode-Frontendmentor/
+https://marcusvcalves.github.io/Frontendmentor-QRcode/
